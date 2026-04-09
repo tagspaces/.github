@@ -2,7 +2,7 @@
 
 **An open-source, offline-first file organizer with tagging, note-taking, and multi-format preview — for Windows, macOS, Linux, Android, and the web.**
 
-[Get Started](https://docs.tagspaces.org/tutorials/how-to-start/) | [Downloads](https://www.tagspaces.org/downloads/) | [Live Demo](https://www.tagspaces.org/demo/) | [Documentation](https://docs.tagspaces.org) | [Discussions](https://github.com/tagspaces/tagspaces/discussions)
+[Get Started](https://docs.tagspaces.org/tutorials/how-to-start/) | [Downloads](https://www.tagspaces.org/downloads/) | [Live Demo](https://demo.tagspaces.com) | [Documentation](https://docs.tagspaces.org) | [Discussions](https://tagspaces.discourse.group/)
 
 ---
 
@@ -45,13 +45,13 @@ The quickest way to try TagSpaces:
 - 🏷️ **File & folder tagging** — rename-based or sidecar JSON, your choice
 - 📝 **Markdown & rich-text editor** — with frontmatter support and internal links
 - 🗂️ **Kanban boards** — turn folders into drag-and-drop task boards (Pro)
-- 🗺️ **Map view** — geo-tag files and visualize them on a map (Pro)
+- 🗺️ **Mapique perspective** — geo-tag files and visualize them on a map (Pro)
 - 📅 **Calendar perspective** — browse files by date (Pro)
-- 🖼️ **Gallery view** — visual browsing for photos and media (Pro)
+- 🖼️ **Gallery perspective** — visual browsing for photos and media (Pro)
 - 🤖 **Local AI integration** — chat with Ollama, auto-tag, summarize content (Pro)
-- ☁️ **S3-compatible storage** — connect AWS S3, Wasabi, MinIO, or Cloudflare R2
+- ☁️ **S3-compatible storage** — connect AWS S3, Wasabi, Garage, s3proxy or Cloudflare R2
 - 🔍 **Full-text search** — find files by name, tag, content, or description
-- 📦 **Web Clipper** — save web pages as HTML, MHTML, PNG, or bookmarks
+- 📦 **Web Clipper** — save web pages as markdown, HTML, MHTML, PNG, or bookmarks
 - 🔧 **CLI tool (tscmd)** — tag, describe, index, and generate thumbnails from the terminal
 
 ---
@@ -71,9 +71,9 @@ The quickest way to try TagSpaces:
 
 | Browser | Link |
 |---|---|
-| **Chrome / Brave / Opera** | [Chrome Web Store](https://chromewebstore.google.com/detail/tagspaces-web-clipper/ldalmgifdlgpiiadeccbcjojljeanber) |
+| **Chrome / Brave / Opera** | [Chrome Web Store](https://chromewebstore.google.com/detail/tagspaces-web-clipper/ldalmgifdlgpiiadeccbcjojljeanhjk) |
 | **Firefox** | [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tagspaces/) |
-| **Edge** | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tagspaces-web-clipper/mfomhdgebegnclbmhncnnaiaejkgedge) |
+| **Edge** | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tagspaces-web-clipper/dinjgbhjngaockabnagbonbfinanjpdn) |
 
 ### CLI Tool
 
@@ -99,7 +99,7 @@ npm install -g @tagspaces/shell
 
 - 🌍 **[Translate](https://www.tagspaces.org/contribute/translation/)** — Help translate TagSpaces into your language via Transifex
 - 🐛 **[Report Issues](https://github.com/tagspaces/tagspaces/issues/new/choose)** — Bug reports and feature requests
-- 💬 **[Discussions](https://github.com/tagspaces/tagspaces/discussions)** — Ask questions, share workflows, give feedback
+- 💬 **[Discussions](https://tagspaces.discourse.group/)** — Ask questions, share workflows, give feedback
 - 💻 **[Contribute Code](https://github.com/tagspaces/tagspaces)** — PRs welcome
 
 ---
