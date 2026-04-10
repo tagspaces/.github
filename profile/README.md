@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.tagspaces.org/content/hero/hero-grid-light.avif" alt="TagSpaces screenshot showing the grid perspective" width="800" />
+  <img src="tagspaces-lead-screenshot.avif" alt="TagSpaces screenshot showing the grid perspective" width="800" />
 </p>
 
 TagSpaces helps you organize files, photos, notes, and documents using **tags** — without requiring a cloud account, a database, or an internet connection. Your files stay where they are. Your tags and metadata travel with them as plain JSON sidecar files or embedded in filenames.
